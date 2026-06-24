@@ -240,9 +240,9 @@ Perform reconnaissance and source cataloging of NSE India resources.
 - Documentation
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Repository Structure
 '''
+# Repository Structure
+
 web-scraping-project/
 │
 ├── src/
