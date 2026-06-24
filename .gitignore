@@ -1,0 +1,15 @@
+venv/
+myenv/
+
+__pycache__/
+*.pyc
+
+logs/
+
+*.xlsx
+*.db
+
+.env
+
+# Images
+data/raw/Images/

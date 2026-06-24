@@ -1,0 +1,12 @@
+selenium
+playwright
+pyee
+requests
+beautifulsoup4
+pandas
+nest_asyncio
+webdriver-manager
+openpyxl
+pyautogui
+numpy
+
