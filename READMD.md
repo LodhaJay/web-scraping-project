@@ -240,7 +240,7 @@ Perform reconnaissance and source cataloging of NSE India resources.
 - Documentation
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-'''
+
 # Repository Structure
 
 web-scraping-project/
@@ -263,7 +263,7 @@ web-scraping-project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-'''
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Key Skills Developed
