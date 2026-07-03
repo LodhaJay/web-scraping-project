@@ -1,0 +1,12 @@
+,,Participant wise Open Interest (No. of contracts) in Currency Derivatives as on 02/07/26,,,,,,,,Participant wise Open Interest Value in Currency Derivatives as on 02/07/26 (In Cr),,,,,,,
+Trade Date,Client Categories,Future Currency Long,Future Currency Short,Options Currency Call Long,Options Currency Call Short,Options Currency Put Long,Options Currency Put Short,Total Long Contracts,Total Short Contracts,Future Currency Long Value,Future Currency Short Value,Options Currency Call Long Value,Options Currency Call Short Value,Options Currency Put Long Value,Options Currency Put Short Value,Total Long Value,Total Short Value
+2072026,Bank,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,Insurance Companies,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,Mutual Funds,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,AIF,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,PMS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,FPI,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2072026,RETAIL,54850,126013,1071,882,3492,2221,59413,129116,0.52,1.22,-,-,-,-,0.52,1.22
+2072026,OTHERS,968021,391217,689,878,10146,11417,978856,403512,9.33,3.79,-,-,-,-,9.33,3.79
+2072026,Proprietary - Banks,43581,526057,-,-,-,-,43581,526057,0.41,5.03,-,-,-,-,0.41,5.03
+2072026,Proprietary - Non-Banks,-,23165,-,-,-,-,-,23165,-,0.22,-,-,-,-,-,0.22

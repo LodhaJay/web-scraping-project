@@ -1,0 +1,12 @@
+COMMODITY,TM_FUT_LIMIT,TM_OPT_LIMIT,UNIT                                        
+COPPER,70000000,140000000,KGS                                                   
+ZINC,70000000,140000000,KGS                                                     
+GOLD,50000000,100000000,GMS                                                     
+NICKEL,10000000,20000000,KGS                                                    
+SILVER,1000000,2000000,KG                                                       
+NATURALGAS,60000000,120000000,MMBTU                                             
+BRCRUDEOIL,4000000,8000000,BBL                                                  
+LEAD,35000000,70000000,KGS                                                      
+CRUDEOIL,4800000,9600000,BBL                                                    
+ALUMINIUM,250000000,500000000,KGS                                               
+ELECMBL,3000000,6000000,MWH                                                     
